@@ -1,0 +1,8 @@
+# Quality
+# -r for code quality assurance
+
+black
+isort
+pycodestyle
+pydocstyle
+flake8
